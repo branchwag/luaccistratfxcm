@@ -1,0 +1,1 @@
+This is a lua algo strategy built for the FXCM platform that places trades based off of CCI Crossovers. Triggers BUY if CCI crosses up over the -100 line and triggers SELL if CCI crosses down over the +100 line. This was just meant as a fun project to see if I could get an algo functioning within the platform (not intended for serious trading). 
